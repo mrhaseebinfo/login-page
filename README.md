@@ -1,4 +1,4 @@
 # login-page
 Design Simple Login Page.
 <br>
-Author - Haseeb Ahmed
+Author by - Haseeb Ahmed
